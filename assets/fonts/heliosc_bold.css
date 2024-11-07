@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'HeliosC Bold';
+	src: url('../fonts/heliosc_bold.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/heliosc_bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/heliosc_bold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/heliosc_bold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/heliosc_bold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/heliosc_bold.svg#heliosc_bold') format('svg'); /* Chrome < 4, Legacy iOS */
+}
